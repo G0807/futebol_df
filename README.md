@@ -13,3 +13,5 @@ Key Performance Metrics: What are the game metrics (shots, saves, offsides, etc.
 Attendance Standards: How does the audience (present in the stadium, or maximum stadium attendance) relate to the outcome of the game or the team's performance? Is there “fan pressure” evident in the data?
 
 Trends Over Time: Are there trends in team performance (or game metrics) throughout the rounds of a championship or over the years? Is the team improving or worsening in certain aspects?
+
+The data contained herein is public (https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwiAq4a0nPuNAxUoKEQIHXPXPGUYACICCAEQABoCZHo&co=1&gclid=CjwKCAjwx8nCBhAwEiwA_z__0-jR8yaT12WuHt-xtlCYPSXk8MqGbiUH7-DJoIfORiTb-1jN2epoZRoCQlEQAvD_BwE&ohost=www.google.com&cid=CAESV-D2OuYeyUw_xIybj1DXqY2VLUyr0AA21Fw0nl4zWZRLwqk811ijKdbIzsUlkhU7gDYz_kPqFW3lcVphftdpfBhAnfDo-_zBFUCF5mmgaSU6RQ2AbX2elA&category=acrcp_v1_40&sig=AOD64_36XckV4voi2Q1wEiWg7FLakGIfFg&q&adurl&ved=2ahUKEwixrfmznPuNAxUuq5UCHWj1A-kQ0Qx6BAgJEAE)
