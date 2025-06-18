@@ -5,7 +5,11 @@ Our main objective is to transform this data into actionable insights that can h
 In general terms, we would like to know:
 
 Performance at Home vs. Away: Is there a significant difference in the team's performance (e.g. wins, shots, defenses) when playing as home versus away? Which metrics are most impacted?
+
 Impact of Team Value and Age: What is the relationship between the market value and average age of a team's starting players (ours and opponents) and the result of the game (win, draw, loss) or other performance metrics (shots, goals, ball possession - if available in other columns)?
+
 Key Performance Metrics: What are the game metrics (shots, saves, offsides, etc.) that most correlate with victory or defeat? Are there any metrics we can focus on to increase our chances of winning?
+
 Attendance Standards: How does the audience (present in the stadium, or maximum stadium attendance) relate to the outcome of the game or the team's performance? Is there “fan pressure” evident in the data?
+
 Trends Over Time: Are there trends in team performance (or game metrics) throughout the rounds of a championship or over the years? Is the team improving or worsening in certain aspects?
